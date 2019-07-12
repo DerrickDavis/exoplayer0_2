@@ -31,8 +31,9 @@ The final section of this lab is all about changing the user interface(user Gui)
 
 ![](Mediaplypics/Screen%20Shot%202019-07-11%20at%2011.30.36%20PM.png)
 
-![](Mediaplypics/Screenshot_2019-07-11-23-23-49.png)
 
 ![](Mediaplypics/Screenshot_2019-07-11-23-23-54.png)
+
+
 
 ![](Mediaplypics/Screenshot_2019-07-11-23-25-11.png)
